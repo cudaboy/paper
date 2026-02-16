@@ -21,10 +21,11 @@
 
 ## 🚀 실행 방법
 
-1.  **저장소 복제 및 디렉토리 이동**:
+1.  **프로젝트 디렉토리로 이동**:
+    이 `README.md` 파일이 있는 `VGGNet` 폴더로 이동합니다.
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository/VGGNet
+    # 예: cd C:\Users\YourUser\Desktop\paper\VGGNet
+    cd path/to/your/project/VGGNet
     ```
 
 2.  **필수 라이브러리 설치**:
