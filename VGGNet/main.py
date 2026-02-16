@@ -7,8 +7,9 @@ from torchinfo import summary
 import data_handler
 import model_trainer
 import plot_utils
+from utils import set_seed
 
-def run(params, set_seed):
+def run(params):
     """Runs the main application logic."""
     st.title("Train Your Own VGG Model 🧠")
     st.markdown("---")
