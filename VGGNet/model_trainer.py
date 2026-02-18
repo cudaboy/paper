@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from tqdm import tqdm
+
 
 # VGG 타입별 레이어 구성 (M: MaxPool, 숫자: Channel 수)
 cfgs = {
